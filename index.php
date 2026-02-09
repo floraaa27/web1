@@ -29,7 +29,9 @@ function updateHarga() {
     let hargaBahan = {
         "Katun": 2000,
         "Satin": 5000,
-        "Rajut": 8000
+        "Rajut": 8000,
+        "Denim": 11000,
+        "Sutra": 14000
     };
 
     let tambahanBahan = 0;
